@@ -27,8 +27,6 @@ console.log(tokens);
 // ]
 ```
 
-## API
-
 ### `tokenize(input: string): Token[]`
 
 Tokenizes the provided mathematical expression string and returns an array of tokens.
